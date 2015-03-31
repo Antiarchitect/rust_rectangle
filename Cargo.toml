@@ -1,0 +1,4 @@
+[package]
+name = "rectangle"
+version = "0.0.1"
+authors = ["Andrey Voronkov <andrey.voronkov@medm.com>"]
